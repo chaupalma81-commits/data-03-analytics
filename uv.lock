@@ -140,7 +140,7 @@ wheels = [
 ]
 
 [[package]]
-name = "datafun-03-analytics"
+name = "data-03-analytics"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
